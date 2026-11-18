@@ -1,0 +1,9 @@
+# LaTeX build files. The PDF to submit is report.pdf in the repository root.
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.toc
+report.pdf
