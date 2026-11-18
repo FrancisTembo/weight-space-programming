@@ -1,0 +1,10 @@
+{
+ "balance": {
+  "screening": "challenged",
+  "localisation": "challenged"
+ },
+ "spectral": {
+  "screening": "challenged",
+  "localisation": "inconclusive"
+ }
+}
